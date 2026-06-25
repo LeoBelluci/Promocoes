@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-label="BATTOGO">
+  <rect width="240" height="64" rx="12" fill="transparent"/>
+  <text x="16" y="41" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="0">BATTOGO</text>
+  <path d="M16 50H118" stroke="#ffe600" stroke-width="5" stroke-linecap="round"/>
+</svg>
